@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\fourth4-6\fourth4-6\test.cpp(14,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  fourth4-6.vcxproj -> C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\fourth4-6\x64\Debug\fourth4-6.exe
