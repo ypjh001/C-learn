@@ -1,0 +1,194 @@
+﻿  Vector.cpp
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,6): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(33,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(33,27): error C2297: “<<”: 非法，右操作数包含“const char [3]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(33,20): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(36,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(36,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(36,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(36,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(93,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(93,23): error C2297: “<<”: 非法，右操作数包含“const char [7]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(93,23): error C2677: 二进制“<<”: 没有找到接受“std::string”类型的全局运算符(或没有可接受的转换)
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(120,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(120,19): error C2297: “<<”: 非法，右操作数包含“const char [6]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(120,19): error C2677: 二进制“<<”: 没有找到接受“std::string”类型的全局运算符(或没有可接受的转换)
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(190,9): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(190,25): error C2297: “<<”: 非法，右操作数包含“const char [4]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(190,17): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(192,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(192,15): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(192,15): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(192,15): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(202,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(202,29): error C2297: “<<”: 非法，右操作数包含“const char [11]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(202,36): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(202,36): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(202,36): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(208,9): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(208,21): error C2297: “<<”: 非法，右操作数包含“const char [2]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(208,15): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(211,10): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(211,17): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(211,17): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(211,17): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(230,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(230,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(230,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(230,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(235,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(235,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(235,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(235,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(241,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(241,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(241,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(241,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(260,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(260,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(260,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(260,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(266,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(266,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(266,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(266,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(272,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(272,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(272,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(272,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(278,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(278,14): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(278,14): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(278,14): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(296,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(296,27): error C2297: “<<”: 非法，右操作数包含“const char [11]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(296,8): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(300,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(300,30): error C2297: “<<”: 非法，右操作数包含“const char [13]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(300,36): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(300,36): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(300,36): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(301,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(301,31): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(301,48): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(301,48): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(301,48): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(303,6): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(303,31): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(303,55): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(303,55): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(303,55): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(304,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(304,46): error C2297: “<<”: 非法，右操作数包含“const char [25]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(304,52): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(304,52): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(304,52): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(307,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(307,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(307,53): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(307,53): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(307,53): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(308,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(308,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(308,55): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(308,55): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(308,55): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(313,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(313,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(313,53): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(313,53): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(313,53): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(314,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(314,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(314,57): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(314,57): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(314,57): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(318,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(318,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(318,53): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(318,53): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(318,53): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(319,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(319,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(319,57): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(319,57): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(319,57): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(323,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(323,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(323,53): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(323,53): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(323,53): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(324,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(324,33): error C2297: “<<”: 非法，右操作数包含“const char [15]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(324,57): error C2563: 在形参表中不匹配
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(324,57): error C2568: “<<”: 无法解析函数重载
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(324,57): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(382,7): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(382,41): error C2297: “<<”: 非法，右操作数包含“const char [22]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(382,7): warning C4552: ”<<“: 未使用表达式结果
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(386,8): error C2872: “cout”: 不明确的符号
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(13,1): message : 可能是“int cout”
+H:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\iostream(40,57): message : 或  “std::ostream std::cout”
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(386,23): error C2297: “<<”: 非法，右操作数包含“const char [2]”类型
+C:\Users\97674\Desktop\龚瑞谉\个人\Cpp练习\STL\STL\Vector.cpp(386,23): fatal error C1003: 错误计数超过 100；正在停止编译
